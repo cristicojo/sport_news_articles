@@ -1,0 +1,14 @@
+.gradle
+.idea
+.settings
+build
+out
+resources/static
+resources/templates
+test
+.classpath
+.project
+gradlew
+gradlew.bat
+HELP.md
+.DS_Store
