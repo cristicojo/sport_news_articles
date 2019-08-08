@@ -2,6 +2,6 @@
 Sports News Task
 
 
-Task made for Incrowd firm from Brighton
+Task made for the software firm called Incrowd which is located in Brighton
 
 Check the file readme.txt for complete specifications
